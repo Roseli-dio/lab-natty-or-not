@@ -1,51 +1,47 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Receita de sobremesa gostosa e rápida
 
-## 🚀 Introdução
+## 🚀 Descrição
 
-> Woooow! Look at this 👀
+> Que delícia! Como é fácil 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Roseli aqui! Pensando nas pessoas que não têm tempo e que gostam de fazer uma boa sobremesa, vou ensinar uma receita fácil, deliciosa e que pode ser usada no natal!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora para a receita!? Venha experimentar! 💪🤓
 
-### Objetivos
+### Tecnologias usadas
+- Consulta no google
+- Vídeo no YouTube
+- Chatgpt
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+### Processo de criação
 
-### Template
+1. Ingredientes
+   
+Primeiro creme
+- 1 lata de leite condensado
+- 1 caixa de creme de leite
+- 1 lata de suco de maracujpa concetrado medido na lata do leite condensado
+- 1/2 xícara de chá de leite em pó 
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+ Segundo creme
+- 100 gramas de chocolate meio amargo
+- 100 gramas de chocolocate ao leite
+-  1 caixa de creme de leite
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Terceiro creme
+- 1 lata de leite condensado
+- 1 caixa de creme de leite
+- 180 ml de suco de limão
+- 1/2 xícara de chá de leite em pó .
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+2.    Modo de preparo
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Coloque todos os ingrediente do primeiro creme no liquidificador e bata até ficar homogêneo, vire em um refratário e leve à geladeira.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Derreta em banho maria o chocolate do segundo creme, misture com o creme de leite até ficar homogênio, espalhe sobre o primeiro creme e leve à geladeira. Se quiser enfeitar por cima, reverse um pouco da mistura de chocolate para enfeitar.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Coloque todos os ingrediente do terceiro creme no liquidificador e bata até ficar homogêneo, vire em cima do segundo creme, enfeite com o chocolate e leve à geladeira.
 
-### Exemplos e Insigths
+### Resultados
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Uma sobremesa rápida, descomplicada e saborosa.
